@@ -1,0 +1,35 @@
+take file from sublime and open with other text editor.
+
+diff between plain text file and binary file.?
+
+why a same file is appearing different in different text editors.?
+
+if 1-- images put on html page,101 requests are generated. for external css, it is loaded.....
+hyperlink - for one hyperlink- 1 request only when we click on it, the request comes.
+
+browser cache- it keeps a copy of source it gets from interne, it has a time when it gets that source. So when we relaod it , it may not go back to inetrnet to get it. So immediately after the reload it may loaded the page.
+
+
+<br>
+<span>
+
+<href> ... most powerful html tag- all www is linked with links. navigability, connectivity.
+
+using angular or higher frameworks, we can make user defined tags.
+
+
+
+
+
+what u did yesterday, today
+any difficulties, ... 
+
+
+
+
+
+
+
+
+
+
